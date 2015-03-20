@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         =  'FXBlurView-Clinkle'
-  s.version      =  '1.4.4c'
+  s.version      =  '1.4.5'
   s.license      =  'zlib'
   s.summary      =  'UIView subclass that replicates the iOS 7 realtime background blur effect, but works on iOS 5 and above.'
   s.author       =  { 'Nick Lockwood' => 'http://charcoaldesign.co.uk/' }
